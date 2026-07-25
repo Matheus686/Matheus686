@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia, principalmente pelas áreas de Cibersegurança e Garantia de Qualidade (QA), buscando constantemente aprimorar meus conhecimentos em segurança, testes e qualidade de software.
+Sou apaixonado por tecnologia, com grande interesse nas áreas de Cibersegurança e Garantia da Qualidade de Software (QA). Estou em constante busca por aprendizado, aprimorando meus conhecimentos em segurança da informação, testes de software e automação, sempre com foco em entregar soluções de qualidade e evoluir profissionalmente
 
 ---
 
