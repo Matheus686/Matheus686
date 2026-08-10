@@ -116,4 +116,4 @@ Busco evoluir continuamente por meio de estudos, cursos e projetos práticos nas
 
 ---
 
-⭐ Em constante evolução nas áreas de **Quality Assurance e Cybersecurity**.
+⭐ Entre testes e segurança, sempre buscando aprender, evoluir e construir soluções melhores. 🚀
