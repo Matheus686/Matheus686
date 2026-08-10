@@ -1,97 +1,119 @@
-# 👋 Olá! Eu sou o Matheus Soares
+# 👋 Matheus Soares
 
-🎓 Estudante de Ciência da Computação  
-🧪 Estagiário de QA-(Quality Assurance)  
-🛡️ Focado em Cybersecurity, QA e Testes de Software  
+### 💻 Ciência da Computação | 🧪 Quality Assurance | 🛡️ Cybersecurity
+
+🧪 Estagiário de Quality Assurance (QA)  
+🔐 Interesse em Cybersecurity  
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia, com grande interesse nas áreas de Cibersegurança e Garantia da Qualidade de Software (QA). Estou em constante busca por aprendizado, aprimorando meus conhecimentos em segurança da informação, testes de software e automação, sempre com foco em entregar soluções de qualidade e evoluir profissionalmente
+Sou estudante de Ciência da Computação e atualmente atuo como Estagiário de Quality Assurance (QA).
+
+Tenho interesse em **Qualidade de Software e Cybersecurity**, buscando desenvolver uma base sólida tanto em testes e automação quanto em segurança da informação.
+
+Na área de **QA**, venho aprimorando minhas habilidades em testes manuais e automatizados, testes Web, Mobile e API, além de práticas de integração contínua.
+
+Em **Cybersecurity**, venho estudando segurança de redes, Linux, segurança Web, análise de vulnerabilidades, Blue Team e fundamentos de Pentest.
+
+Busco evoluir continuamente por meio de estudos, cursos e projetos práticos nas duas áreas.
 
 ---
 
 ## 🎓 Formação
 
-* Bacharelado em Ciência da Computação
+- 🎓 Bacharelado em Ciência da Computação — 2024–2027
 
 ---
 
-## 🧪 QA & Testing
+## 🧪 Quality Assurance & Testing
 
-<div style="display: inline_block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" width="55">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" height="45" width="55">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" height="45" width="55">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" width="55">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="45" width="55">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" width="55">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45" width="55">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="45" width="55">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cucumber.svg" height="45" width="55">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/appium.svg" height="45" width="55">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="45" width="55">
-</div>
+### 🔹 Conhecimentos
+
+- Testes Funcionais
+- Testes Exploratórios
+- Testes de Regressão
+- Testes Web
+- Testes de API
+- Testes Mobile
+- Cenários Positivos e Negativos
+- Automação de Testes
+- Integração Contínua / CI/CD
+- Testes em Chatbots e Fluxos Conversacionais
+- Validação de Agentes de IA
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,js,java,python,git,github,postman,vscode,idea,pycharm" />
+</p>
+
+`Selenium WebDriver` • `CodeceptJS` • `Playwright` • `Appium` • `Postman` • `JUnit` • `Cucumber` • `Maven` • `GitHub Actions`
 
 ---
 
 ## 🛡️ Cybersecurity
 
-<div style="display: inline_block">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="45" width="55">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" width="55">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" width="55">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="45" width="55">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45" width="55">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="45" width="55">
-</div>
+### 🔐 Conhecimentos e Estudos
 
----
+- Segurança da Informação
+- Segurança de Redes
+- Redes de Computadores
+- Linux (Ubuntu e Kali Linux)
+- Segurança Web
+- Análise de Vulnerabilidades
+- Blue Team e Defesa Cibernética
+- Fundamentos de Pentest
 
-## 📚 Áreas de Interesse
+### 🛠️ Tecnologias e Ferramentas
 
-- 🛡️Cybersecurity
-- 🧪Quality Assurance(QA)
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,python,git,mysql,bash" />
+</p>
+
+`Linux` • `Ubuntu` • `Kali Linux` • `Python` • `Git` • `MySQL` • `Wireshark` • `Nmap` • `Cisco Packet Tracer` • `TryHackMe` • `Hack The Box` 
 
 ---
 
 ## 📂 Repositórios por Categoria
 
-<div style="display: inline_block">
+<p>
 
-  <a href="https://github.com/stars/mthxssoares/lists/academic-projects" target="_blank">
-    <img src="https://img.shields.io/badge/Projetos%20Acadêmicos-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+<a href="https://github.com/stars/mthxssoares/lists/qa-testing">
+  <img src="https://img.shields.io/badge/QA%20%26%20TESTING-FF6D00?style=for-the-badge&logo=selenium&logoColor=white">
+</a>
 
-  <a href="https://github.com/stars/mthxssoares/lists/cybersecurity" target="_blank">
-    <img src="https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logo=linux&logoColor=white">
-  </a>
+<a href="https://github.com/stars/mthxssoares/lists/cybersecurity">
+  <img src="https://img.shields.io/badge/CYBERSECURITY-0078D4?style=for-the-badge&logo=kalilinux&logoColor=white">
+</a>
 
-  <a href="https://github.com/stars/mthxssoares/lists/qa-testing" target="_blank">
-    <img src="https://img.shields.io/badge/QA%20%26%20Testes-2EA44F?style=for-the-badge&logo=cypress&logoColor=white">
-  </a>
+<a href="https://github.com/stars/mthxssoares/lists/academic-projects">
+  <img src="https://img.shields.io/badge/ACADEMIC%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-</div>
+</p>
 
 ---
 
 ## 📫 Contato
 
-<div style="display: inline_block"> 
-  <a href="https://www.linkedin.com/in/matheus-silva-soares586246" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<p>
 
-  <a href="https://github.com/mthxssoares" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/matheus-silva-soares586246/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-  <a href="mailto:matheussilvasoares21@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+<a href="https://github.com/mthxssoares">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:matheussilvasoares21@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
 
 ---
 
-⭐ Sempre buscando evoluir em Cybersecurity e Quality Assurance (QA).
+⭐ Em constante evolução nas áreas de **Quality Assurance e Cybersecurity**.
